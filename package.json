@@ -1,0 +1,17 @@
+{
+  "name": "cron-job",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "ms-teams-webhook": "^1.0.4",
+    "mssql": "^7.3.0",
+    "nodemon": "^2.0.15"
+  }
+}
